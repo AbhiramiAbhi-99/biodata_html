@@ -1,0 +1,21 @@
+.bio {
+  background-color: rgb(118, 221, 143);
+}
+
+#heading {
+  color: blue;
+  font-size: 50px;
+  text-align: center;
+  font-family: ui-rounded;
+  background-color: rgb(81, 112, 81);
+}
+.name {
+  font-size: 25px;
+  font-family: inherit;
+  color: rgb(226, 13, 13);
+}
+
+.list {
+  font-style: revert;
+  font-size: large;
+}
